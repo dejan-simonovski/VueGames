@@ -1,8 +1,8 @@
 # VueGames
 Vue3 app for Programming of Video Games
 
-# Made by:
-Dejan Simonovski 211039
+# Authors
+Dejan Simonovski 211039<br/>
 Angel Risteski 211095
 
 ## Prerequisites
