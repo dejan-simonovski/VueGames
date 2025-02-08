@@ -1,5 +1,10 @@
-# GameStop
+# VueGames
 Vue3 app for Programming of Video Games
+
+# Made by:
+Dejan Simonovski 211039
+Angel Risteski 211095
+
 ## Prerequisites
 Make sure you have [Vue.js](https://vuejs.org/) installed.
 
